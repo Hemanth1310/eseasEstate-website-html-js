@@ -44,7 +44,7 @@ https://easestate-live-1310.firebaseapp.com/
 ./
 ├── index.html
 ├── assets/
-│   └── style.css
+│   └── styles.css
 ├── index.js
 └── README.md
 ```
