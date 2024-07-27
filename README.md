@@ -41,7 +41,7 @@ https://easestate-live-1310.firebaseapp.com/
 ## File Structure
 
 ```
-real-estate-app/
+./
 ├── index.html
 ├── assets/
 │   └── style.css
